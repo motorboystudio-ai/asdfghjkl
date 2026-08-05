@@ -1,0 +1,12 @@
+tools:
+  shell:
+    allow:
+      - curl *
+      - dir *
+      - ls *
+      - Get-ChildItem *
+      - mkdir *
+
+agent_servers:
+  poolside:
+    default_model: poolside/laguna-s-2.1

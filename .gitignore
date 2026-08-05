@@ -1,0 +1,24 @@
+# Binary ECU firmware files
+*.bin
+*.dat
+
+# Log files
+*.log
+
+# DLL files (Windows binaries)
+*.dll
+
+# PNG screenshots
+ECU/*.png
+
+# Python cache
+__pycache__/
+*.pyc
+
+# macOS resource fork files
+._*
+
+# Keep important documentation files
+!MPC_TOOLS_ARCHITECTURE.md
+!tools-info.md
+!job.md
