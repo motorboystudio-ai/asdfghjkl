@@ -1,0 +1,39 @@
+Edit Log for 38770-K03-H01.bin created by TunerPro.
+**************************************************************************
+01/16/2021 00:30:46  Table:     Fuel Rev Limiter changed.
+01/16/2021 00:39:33  Table:     Fuel Calcurated Load Map changed.
+01/16/2021 00:40:58  Table:     Fuel Base Map changed.
+01/16/2021 00:41:43  Table:     Fuel Rev Limiter changed.
+01/16/2021 00:42:56  Table:     Ignition Map 1 changed.
+01/30/2021 23:58:20  Table:     Fuel Calcurated Load Map changed.
+01/30/2021 23:58:26  Table:     Fuel Base Map changed.
+01/30/2021 23:59:13  Table:     Fuel Rev Limiter changed.
+01/31/2021 00:00:45  Table:     Ignition Map 1 changed.
+01/31/2021 00:01:36  Table:     Ignition Map 2 changed.
+02/01/2021 23:57:34  Table:     Fuel Rev Limiter changed.
+02/06/2021 03:53:35  Table:     Fuel Base Map changed.
+02/06/2021 03:53:36  Table:     Fuel Calcurated Load Map changed.
+02/06/2021 03:54:13  Table:     Ignition Map 2 changed.
+02/06/2021 03:54:14  Table:     Ignition Map 1 changed.
+02/06/2021 03:54:34  Table:     Fuel Rev Limiter changed.
+07/07/2021 18:26:27  Table:     RPM Breakpoints รอบเครื่อง changed.
+07/07/2021 18:46:04  Table:     Ignition ไฟ 1-4 changed.
+07/07/2021 19:42:24  Table:     RPM Breakpoints รอบเครื่อง changed.
+07/07/2021 20:37:04  Table:     TPS vs RPM น้ำมัน 1-4 changed.
+07/07/2021 20:37:04  Table:     TPS vs RPM น้ำมันN changed.
+07/07/2021 20:38:02  Table:     Ignition ไฟ N changed.
+07/07/2021 20:38:33  Table:     Ignition ไฟ 1-4 changed.
+07/07/2021 20:54:18  Table:     TPS vs RPM น้ำมัน 1-4 changed.
+07/07/2021 20:54:19  Table:     TPS vs RPM น้ำมันN changed.
+07/07/2021 20:55:57  Table:     Ignition ไฟ N changed.
+07/07/2021 20:56:25  Table:     Ignition ไฟ 1-4 changed.
+09/25/2021 18:37:25  Table:     TPS (ตารางเปอร์เซ็นคันเร่ง) changed.
+09/25/2021 18:39:07  Table:     RPM (ตารางรอบเครื่องยนต์) changed.
+09/25/2021 18:42:45  Table:     Fuel 1 : ตารางน้ำมันหน้าที่ 1 changed.
+09/25/2021 18:43:08  Table:     Fuel 2 : ตารางน้ำมันหน้าที่ 2 changed.
+09/25/2021 18:44:52  Table:     Ignition 1-4 (องศาไฟเกียร์ 1-4) changed.
+09/25/2021 18:48:59  Table:     Ignition 1-4 (องศาไฟเกียร์ 1-4) changed.
+09/25/2021 18:50:27  Table:     EOT (อุณหภูมิน้ำมันเครื่อง) changed.
+09/25/2021 18:51:25  Table:     IAT (อุณหภูมิอากาศในท่อไอดี) changed.
+09/25/2021 18:51:49  Table:     Fuel Cut (รอบตัดน้ำมัน) changed.
+09/25/2021 18:52:07  Table:     Ignition Cut (รอบตัดไฟจุดระเบิด) changed.

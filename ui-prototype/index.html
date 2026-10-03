@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Honda Flash-ID Reader (Full Prototype)</title>
+    <style>
+        :root { --bg: #121212; --surface: #1e1e1e; --primary: #bb86fc; --text: #ffffff; }
+        body { font-family: sans-serif; background: var(--bg); color: var(--text); margin: 0; display: flex; height: 100vh; }
+        aside { width: 250px; background: var(--surface); padding: 20px; border-right: 1px solid #333; }
+        nav li { padding: 15px; cursor: pointer; border-radius: 5px; margin-bottom: 5px; background: #252525; }
+        nav li:hover { background: #333; }
+        main { flex: 1; padding: 20px; }
+        .page { display: none; }
+        .active { display: block; }
+        table { width: 100%; border-collapse: collapse; margin-top: 20px; }
+        th, td { padding: 12px; border: 1px solid #333; }
+        .btn { padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; background: var(--primary); color: #000; font-weight: bold; }
+    </style>
+</head>
+<body>
+    <aside>
+        <h1>Honda Reader</h1>
+        <nav>
+            <ul>
+                <li onclick="showPage('db-keihin')">Database KEIHIN</li>
+                <li onclick="showPage('db-shindengen')">Database SHINDENGEN</li>
+                <li onclick="showPage('reader')">SmartKey ID Reader</li>
+                <li onclick="showPage('livedata')">Live Data</li>
+                <li onclick="showPage('dtc')">DTC</li>
+            </ul>
+        </nav>
+    </aside>
+    <main id="content">
+        <div id="db-keihin" class="page active"><h2>Database KEIHIN</h2><table><thead><tr><th>Type Motor</th><th>Part Number</th><th>ECM ID</th></tr></thead><tbody><tr><td>BeAT 110</td><td>38770-K25-901</td><td>0101340F01</td></tr></tbody></table></div>
+        <div id="db-shindengen" class="page"><h2>Database SHINDENGEN</h2><table><thead><tr><th>Type Motor</th><th>Part Number</th><th>ECM ID</th></tr></thead><tbody><tr><td>ADV 160</td><td>30400-K0WL-NB1</td><td>01048D0F01</td></tr></tbody></table></div>
+        <div id="reader" class="page"><h2>SmartKey ID Reader</h2><input type="text" placeholder="Scan/Input Barcode"><button class="btn">READ ID</button></div>
+        <div id="livedata" class="page"><h2>Live Data</h2><p>Monitoring screen...</p></div>
+        <div id="dtc" class="page"><h2>DTC</h2><p>DTC reading screen...</p></div>
+    </main>
+    <script>
+        function showPage(id) {
+            document.querySelectorAll('.page').forEach(p => p.classList.remove('active'));
+            document.getElementById(id).classList.add('active');
+        }
+    </script>
+</body>
+</html>

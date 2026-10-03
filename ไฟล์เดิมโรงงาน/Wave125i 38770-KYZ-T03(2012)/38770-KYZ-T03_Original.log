@@ -1,0 +1,10 @@
+Edit Log for 38770-KYZ-T03_Original.bin created by TunerPro.
+**************************************************************************
+12/15/2020 12:25:17  Table:     TPS Breakpoints changed.
+12/27/2020 23:57:54  Table:     Fuel RPM Limiter changed.
+12/27/2020 23:58:46  Table:     Fuel Map2 changed.
+12/27/2020 23:58:50  Table:     Fuel Map1 changed.
+12/28/2020 00:00:08  Table:     Ignition Map2 changed.
+12/28/2020 00:00:11  Table:     Ignition Map1 changed.
+12/28/2020 00:00:39  Flag:      EOT Sensor Enable changed from Set to Not Set..
+12/28/2020 00:01:02  Flag:      EOT Sensor Enable changed from Not Set to Set..

@@ -1,0 +1,20 @@
+Edit Log for KZV-A61-64Bit Ori.bin created by TunerPro.
+**************************************************************************
+01/31/2021 00:10:26  Table:     Ignition 1-6 changed.
+02/01/2021 12:12:32  Table:     Ignition Map 1 changed.
+02/01/2021 12:12:50  Table:     Fuel Calcurated Load Map changed.
+02/01/2021 12:13:15  Table:     Fuel Base Map changed.
+02/01/2021 12:13:38  Table:     Fuel Rev Limiter changed.
+02/01/2021 12:13:50  Flag:      LTFT Disable changed from Not Set to Set..
+02/01/2021 12:16:24  Table:     Ignition Map 1 changed.
+10/05/2021 16:40:58  Table:     TPS (ตารางเปอร์เซ็นคันเร่ง) changed.
+10/05/2021 16:43:33  Table:     RPM (ตารางรอบเครื่องยนต์) changed.
+10/05/2021 16:47:59  Table:     Fuel 1 : ตารางน้ำมันหน้าที่ 1 changed.
+10/05/2021 16:48:11  Table:     Fuel 2 : ตารางน้ำมันหน้าที่ 2 changed.
+10/05/2021 17:04:50  Table:     Ignition 1-4 (องศาไฟเกียร์ 1-4) changed.
+10/05/2021 17:06:39  Table:     EOT (อุณหภูมิน้ำมันเครื่อง) changed.
+10/05/2021 17:07:47  Table:     IAT (อุณหภูมิอากาศในท่อไอดี) changed.
+10/05/2021 17:07:58  Table:     EOT (อุณหภูมิน้ำมันเครื่อง) changed.
+10/05/2021 17:09:08  Table:     Fuel Cut (รอบตัดน้ำมัน) changed.
+10/05/2021 17:09:25  Table:     Ignition Cut (รอบตัดไฟจุดระเบิด) changed.
+10/05/2021 17:10:35  Flag:      O2 เซ็นเซอร์ตรวจวัดออกซิเจนในก๊าซไอเสีย (เปิด) changed from Set to Not Set..
